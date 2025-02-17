@@ -1,94 +1,72 @@
-<h1 align="center">Hi 👋, I'm United</h1>
-<h3 align="center">A passionate programmer from Ghaziabad, Uttar Pradesh, India</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+United👋;Full-Stack+Developer;RAT+Developer;Cyber+Enthusiast;&center=true&size=30&color=00F0FF&width=600&height=50">
+  </a>
+</h1>
+
+<h3 align="center">🔮| 🛠️ Building Digital Frontiers | 🎮 Minecraft Modder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blazedbottle&label=Profile%20views&color=0e75b6&style=flat" alt="blazedbottle" />
+  <img src="https://komarev.com/ghpvc/?username=blazedbottle&label=PROFILE+VIEWS&color=00ffea&style=for-the-badge" alt="blazedbottle" /> 
+  <img src="https://img.shields.io/badge/Age-16-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Windows%2010-0078d7?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007acc?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
-- 🔭 I’m currently working on **Remote Access Trojans (RATs)**
-- 🌱 I’m currently learning **Java**
-- 💻 I use **Windows 10** and have experience with **Ubuntu**
-- 🎮 I enjoy coding and exploring **Minecraft exploits**
+<div align="center">
+  
+  ![Rat Development](https://img.shields.io/badge/-RAT%20Development-ff0000?style=flat-square&logo=probot&logoColor=white)
+  ![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-00ff00?style=flat-square&logo=root-me&logoColor=black)
+  ![Minecraft Exploits](https://img.shields.io/badge/-Minecraft%20Exploits-00ffff?style=flat-square&logo=minecraft&logoColor=white)
+  ![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-ff00ff?style=flat-square&logo=radar&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
+</div>
+
+---
+
+### 🔥 **Tech Arsenal**
+
+#### **Languages**
+![Python](https://img.shields.io/badge/-Python-ffff00?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ff0000?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffd000?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### **Technologies**
+![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-21d789?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+### 📈 **GitHub Analytics**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blazedbottle&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00ffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazedbottle&layout=compact&theme=radical&border_color=00ffff&langs_count=8"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Operating Systems -->
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
-  <!-- Tools -->
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" alt="idea" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=blazedbottle&show_icons=true&locale=en" alt="blazedbottle" />
-</p>
+### 🎮 **Current Obsessions**
+- 🔭 Crafting next-gen RAT tools
+- 🌱 Mastering Java & JVM internals
+- 💡 Experimenting with Minecraft mod exploits
+- 🧠 Reverse engineering challenges
+- 📚 Studying cybersecurity fundamentals
 
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blazedbottle&show_icons=true&locale=en&layout=compact" alt="blazedbottle" />
-</p>
+---
 
-
-::contentReference[oaicite:0]{index=0}
- 
+### ⚠️ **Ethical Note**
+```diff
++ All projects are for educational purposes only
+! Strictly against malicious use of tools
+# Ethical hacking enthusiast
