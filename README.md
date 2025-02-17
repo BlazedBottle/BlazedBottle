@@ -31,7 +31,6 @@
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffd000?style=for-the-badge&logo=javascript&logoColor=black)
-![Css](https://img.shields.io/badge/-Css-ffff00?style=for-the-badge&logo=css&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### **Technologies**
