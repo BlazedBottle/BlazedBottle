@@ -7,7 +7,7 @@
 <h3 align="center">🔮| 🛠️ Building Digital Frontiers | 🎮 Minecraft Modder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=united-fs&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="united-fs" /> 
+  <img src="https://komarev.com/ghpvc/?username=united-fs&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="blazedbottle" /> 
   <img src="https://img.shields.io/badge/Age-17-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OS-Windows%2010-0078d7?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/Editor-VS_Code-007acc?style=for-the-badge&logo=visual-studio-code" />
